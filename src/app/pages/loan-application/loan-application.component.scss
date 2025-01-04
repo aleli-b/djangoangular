@@ -1,0 +1,25 @@
+// Styles for elements within the #loanDetails ID
+#loanDetails {
+    .loan-group {
+        margin-bottom: 1.5rem; // Adds space below each loan-group element
+    }
+
+    .btn {
+        margin-top: 1rem; // Adds space above each button element
+    }
+}
+
+// Styles for form control elements
+.form-control {
+    border: 1px solid #22315f !important; // Adds a solid border with a specific color
+}
+
+// Styles for card elements
+.card {
+    border-radius: 10px !important; // Rounds the corners of the card
+}
+
+// Styles for label elements
+label { 
+    margin-bottom: 0 !important; // Removes the bottom margin of labels
+}
